@@ -1,28 +1,31 @@
 # cwan_9103_tut5
-My first repository for IDEA9103
+## Week 8 Quiz
+### Part 1: Imaging Technique Inspiration
+__Among the works of art provided for the major assignment, I am more interested in the Wheels of Fortune in Pacita Abad. This work is made up of many circles and small particles.__
 
-This is my first local change to the repo!!
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+![An image of Wheels of fortune](assets/Pacita_Abad_Wheels_of_fortune.jpg)
 
-**Bold Text** or __Bold Text__
-*Italic Text* or _Italic Text_
+__That reminds me of when Thanos snaps his fingers and a lot of people disappear into particles in the Avengers.__
 
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
+![An image of Avengers](assets/Avengers_Screenhot_Spider_man.jpg)
 
-1. First Item
-2. Second Item
-3. Third Item
+![An image of Avengers](assets/Avengers_Screenshot_Scarlet_Witch.jpg)
 
-[Link Text](https://ww.google.com)
+__I think this effect is interesting and suitable to add to the final task. I want the original pattern to break down into particles that float away when I click the keyboard or mouse.__
 
-![An image](https://placekitten.com/200/300)
+### Part 2: Coding Technique Exploration
 
-![An image of the Mona Lisa](assets/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+__I found a tutorial about falling sand simulator from The Coding Train. This coding technique simulates sand by setting some pixels in the canvas and adding gravity to those pixels so that they can fall. I think this technique can achieve the effect I'm looking for, and while I can't make the particles float away, falling sand can have a similar effect. I can draw the pattern with the pixels and then make the particles that make up the pattern fall in droves into a puddle of sand with the falling sand simulator.__
+
+### Coding technique in action
+1. Example 1
+[SANDWATCH](https://eirikhodne.no/kode-eksempler/Klokker/Sandklokke/)
+
+![An image of Avengers](assets/Example1.jpg)
+_The pixels that make up the number fall through time._
+
+2. Example 2
+[IMAGE TO SAND](https://editor.p5js.org/dozsolti/sketches/jRnf6QPCD)
+
+![An image of Avengers](assets/Example2.jpg)
+_The pixels that make up the picture fall by clicking._
